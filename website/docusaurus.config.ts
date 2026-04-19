@@ -337,7 +337,7 @@ export default async function createConfigAsync() {
       [
         './src/plugins/changelog/index.ts',
         {
-          blogTitle: 'Docusaurus',
+          blogTitle: 'Mr. Mohamed Ghanem',
           // Not useful, but permits to run git commands earlier
           // Otherwise the sitemap plugin will run them in postBuild()
           showLastUpdateAuthor: showLastUpdate,
