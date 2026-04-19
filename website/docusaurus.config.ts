@@ -170,7 +170,7 @@ const showLastUpdate = true;
 
 export default async function createConfigAsync() {
   return {
-    title: 'Docusaurus',
+    title: 'Mr. Mohamed Ghanem',
     tagline: getLocalizedConfigValue('tagline'),
     organizationName: 'facebook',
     projectName: 'docusaurus',
