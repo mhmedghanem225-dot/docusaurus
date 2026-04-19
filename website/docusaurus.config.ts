@@ -337,13 +337,13 @@ export default async function createConfigAsync() {
       [
         './src/plugins/changelog/index.ts',
         {
-          blogTitle: 'Docusaurus changelog',
+          blogTitle: 'Mr. Mohamed Ghanem',
           // Not useful, but permits to run git commands earlier
           // Otherwise the sitemap plugin will run them in postBuild()
           showLastUpdateAuthor: showLastUpdate,
           showLastUpdateTime: showLastUpdate,
           blogDescription:
-            'Keep yourself up-to-date about new features in every release',
+            'ُEnglish For All',
           blogSidebarCount: 'ALL',
           blogSidebarTitle: 'Changelog',
           routeBasePath: '/changelog',
@@ -353,7 +353,7 @@ export default async function createConfigAsync() {
           authorsMapPath: 'authors.json',
           feedOptions: {
             type: 'all',
-            title: 'Docusaurus changelog',
+            title: 'Mr. Mohamed Ghanem',
             description:
               'Keep yourself up-to-date about new features in every release',
             copyright: `Copyright © ${new Date().getFullYear()} Facebook, Inc.`,
