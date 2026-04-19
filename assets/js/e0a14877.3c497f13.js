@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([["73385"],{49858(e){e.exports=JSON.parse('{"metadata":{"permalink":"/changelog/page/5","page":5,"postsPerPage":20,"totalPages":6,"totalCount":110,"previousPage":"/changelog/page/4","nextPage":"/changelog/page/6","blogDescription":"\u064FEnglish For All","blogTitle":"Mr. Mohamed Ghanem"}}')}}]);
